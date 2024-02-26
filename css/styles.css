@@ -51,5 +51,10 @@ body {
 }
 
 .border {
-	border-style: dotted;
+	border-color: mediumvioletred !important;
+	background-color: greenyellow !important;
+}
+
+.language-progress {
+	background-color: deeppink;
 }
